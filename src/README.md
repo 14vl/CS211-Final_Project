@@ -35,12 +35,12 @@ _________________
 - Open your terminal inside the `src/` folder and compile the Java files:
 
 
-         `javac unibookmark/*.java`
+         javac unibookmark/*.java
 
 - Then run the program:
 
 
-       `java unibookmark.Main`
+       java unibookmark.Main
 
 _________________
 
@@ -128,4 +128,5 @@ _________________
 _________________
 
 #### 🍀˚₊· Acknowledgment
+
  We would like to express our gratitude to our most coquette soft girly instructor Ma’am Fatima Marie P. Agdon. We would like to extend our gratitude to our pets, Bulag, Cotton Buds, Harris, Mingming, Mongmong, and Rado for their support throughout this project.  
